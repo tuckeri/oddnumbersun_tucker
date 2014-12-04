@@ -1,0 +1,10 @@
+H:\GitHub\oddNumberSum_tucker\oddNumberSum_tucker\bin\Debug\oddNumberSum_tucker.exe.config
+H:\GitHub\oddNumberSum_tucker\oddNumberSum_tucker\obj\Debug\oddNumberSum_tucker.Form1.resources
+H:\GitHub\oddNumberSum_tucker\oddNumberSum_tucker\obj\Debug\oddNumberSum_tucker.Resources.resources
+H:\GitHub\oddNumberSum_tucker\oddNumberSum_tucker\obj\Debug\oddNumberSum_tucker.vbproj.GenerateResource.Cache
+H:\GitHub\oddNumberSum_tucker\oddNumberSum_tucker\bin\Debug\oddNumberSum_tucker.exe
+H:\GitHub\oddNumberSum_tucker\oddNumberSum_tucker\bin\Debug\oddNumberSum_tucker.pdb
+H:\GitHub\oddNumberSum_tucker\oddNumberSum_tucker\bin\Debug\oddNumberSum_tucker.xml
+H:\GitHub\oddNumberSum_tucker\oddNumberSum_tucker\obj\Debug\oddNumberSum_tucker.exe
+H:\GitHub\oddNumberSum_tucker\oddNumberSum_tucker\obj\Debug\oddNumberSum_tucker.xml
+H:\GitHub\oddNumberSum_tucker\oddNumberSum_tucker\obj\Debug\oddNumberSum_tucker.pdb
